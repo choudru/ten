@@ -11,8 +11,7 @@
     "url": "https://github.com/choudru/tea-choudru.git"
   },
   "dependencies": {
-    "tea-choudru": "1.0.0",
-    "ten": "1.0.2"
+    "tea-choudru": "1.0.0"
   },
   "author": "",
   "license": "ISC",
