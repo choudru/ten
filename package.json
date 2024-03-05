@@ -1,0 +1,23 @@
+{
+  "name": "ten",
+  "version": "1.0.2",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/choudru/tea-choudru.git"
+  },
+  "dependencies": {
+    "tea-choudru": "1.0.0",
+    "ten": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choudru/tea-choudru/issues"
+  },
+  "homepage": "https://github.com/choudru/tea-choudru#readme"
+}
